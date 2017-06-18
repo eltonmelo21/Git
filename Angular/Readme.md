@@ -1,1 +1,1 @@
-Leia-me do curso de Angular
+Leia-me do curso de Angular do Udemy
